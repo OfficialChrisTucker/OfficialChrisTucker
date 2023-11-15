@@ -6,7 +6,7 @@
 ### <div align="center">Greetings, I'm Chris Tucker, a full-time full-stack freelance developer!</div>  
   
 
-- 🔭 I’m currently working on [Why Do We](www.whydowe.world)  
+- 🔭 I’m currently working on [Why Do We](https://www.whydowe.world)  
   
 
 - 🌱 I’m currently learning LUA.  
