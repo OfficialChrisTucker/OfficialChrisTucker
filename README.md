@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Tucker====================================================================================================================================Software Engineer-----------------I've been studuing HTML for over 5 years! I have became quite good at it in this timespan.* 🌍  I'm based in New York* ✉️  You can contact me at [RealChrisTucker@proton.me](mailto:RealChrisTucker@proton.me)* 🚀  I'm currently working on [Why Do We](http://www.WhyDoWe.World)* 🧠  I'm learning Java* 🤝  I'm open to collaborating on any projects in need of help!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Tucker
+I've been studuing HTML for over 5 years! I have became quite good at it in this timespan.*
+ 🌍  I'm based in New York* 
+✉️  You can contact me at [RealChrisTucker@proton.me](mailto:RealChrisTucker@proton.me)* 
+🚀  I'm currently working on [Why Do We](http://www.WhyDoWe.World)* 
+🧠  I'm learning Java* 
+🤝  I'm open to collaborating on any projects in need of help!
 
 <a href="https://www.twitch.tv/ChrisTuckerStreamz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ChrisTuckerStreamz?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
