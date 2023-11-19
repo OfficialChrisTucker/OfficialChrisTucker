@@ -3,9 +3,9 @@ I've been studuing HTML for over 5 years! I have became quite good at it in this
 
 🌍  I'm based in New York* 
 
-✉️  You can contact me at [RealChrisTucker@proton.me](mailto:RealChrisTucker@proton.me)*
+✉️  You can contact me at [RealChrisTucker@proton.me](mailto:RealChrisTucker@proton.me)
 
-🚀  I'm currently working on [Why Do We](http://www.WhyDoWe.World)*
+🚀  I'm currently working on [Why Do We](http://www.WhyDoWe.World)
 
 🧠  I'm learning Java
 
